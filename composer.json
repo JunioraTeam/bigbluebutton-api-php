@@ -1,5 +1,5 @@
 {
-  "name": "bigbluebutton/bigbluebutton-api-php",
+  "name": "juniora/bigbluebutton-api-php",
   "type": "library",
   "description": "BigBlueButton PHP API Library for PHP",
   "keywords": [
@@ -13,6 +13,11 @@
     {
       "name": "Ghazi Triki",
       "email": "ghazi.triki@riadvice.tn",
+      "role": "Developer"
+    },
+    {
+      "name": "Nima HeydariNasab",
+      "email": "nima.heydari79@yahoo.com",
       "role": "Developer"
     }
   ],
